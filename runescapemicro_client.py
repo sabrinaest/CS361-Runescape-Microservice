@@ -32,4 +32,4 @@ while True:
         item_name = data['item_name']
         price = data['price']
         wiki_link = data['wiki_page']
-        print("Item name: " + item_name + "     price: " + str(price) + "coins" + "     wiki page: " + wiki_link)
+        print("Item name: " + item_name + "     price: " + str(price) + " coins" + "     wiki page: " + wiki_link)
