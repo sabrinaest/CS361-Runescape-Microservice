@@ -1,4 +1,3 @@
-import time
 import zmq
 import requests
 import json
