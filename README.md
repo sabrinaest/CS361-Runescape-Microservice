@@ -2,7 +2,7 @@
 
 # [Runescape Microservice UML Diagram](https://user-images.githubusercontent.com/102570901/236058526-bc69d675-faae-439a-9ce1-d34b9add1a7a.jpg)
 
-# The microservice will use ZeroMQ (PyZMQ Messaging) for communication.
+#The microservice will use ZeroMQ (PyZMQ Messaging) for communication.
 
 # How to REQUEST data (example call included): The client will send a socket with the item name stored as a string. 
 # Example:
