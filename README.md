@@ -2,7 +2,7 @@
 
 ### The microservice will use ZeroMQ (PyZMQ Messaging) for communication.
 
-### How to REQUEST data (example call included): The client will send a socket with the item name stored as a string. 
+### How to REQUEST data (example call included): The client will send a socket with the item name stored as a string to ZeroMQ. The microservice will then recieve this string and make a GET request to the Old School Runescape API.  
 ### Example:
 import zmq
 
